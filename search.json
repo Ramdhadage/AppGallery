@@ -1,0 +1,16 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Shiny Application Gallery",
+    "section": "",
+    "text": "Explore the deployed applications below. Select a card to launch an app, or use the icons to open its documentation and GitHub repository.\n\n\n  Deployed Shiny Applications\n\n  \n    \n      \n        \n          \n            Biodiversity Dashboard\n          \n\n          \n            \n          \n\n          \n            \n          \n        \n\n        \n          \n          Launch application\n        \n      \n    \n      \n        \n          \n            Editable Submission Sync\n          \n\n          \n            \n          \n\n          \n            \n          \n        \n\n        \n          \n          Launch application\n        \n      \n    \n      \n        \n          \n            Clinical Data Visualization Toolkit\n          \n\n          \n            \n          \n\n          \n            \n          \n        \n\n        \n          \n          Launch application\n        \n      \n    \n      \n        \n          \n            Deidentification\n          \n\n          \n            \n          \n\n          \n            \n          \n        \n\n        \n          \n          Launch application\n        \n      \n    \n      \n        \n          \n            CDRSCE Task Analysis\n          \n\n          \n            \n          \n\n          \n            \n          \n        \n\n        \n          \n          Launch application\n        \n      \n    \n  \n\nNo matching items"
+  },
+  {
+    "objectID": "table.html",
+    "href": "table.html",
+    "title": "App Gallery",
+    "section": "",
+    "text": "Title\nReadMe File\nGitHub Repo\nApp URL\n\n\n\n\nBiodiversityDashboard\nhttps://github.com/Biodiversity-Dashboard/BiodiversityDashboard/blob/main/README.md\nhttps://github.com/Biodiversity-Dashboard/BiodiversityDashboard\nhttps://ti5syn-ramdhadage.shinyapps.io/BiodiversityDashboard/\n\n\neditable.submissionsync\nhttps://github.com/Ramdhadage/editable.submissionsync/blob/main/README.md\nhttps://github.com/Ramdhadage/editable.submissionsync/tree/main\nhttps://ti5syn-ramdhadage.shinyapps.io/editable/\n\n\nClinicalDataVisualizationToolkit\nhttps://github.com/Ramdhadage/clinviz/blob/main/README.md\nhttps://github.com/Ramdhadage/clinviz\nhttps://ti5syn-ramdhadage.shinyapps.io/ClinicalDataVisualizationToolkit/\n\n\ndeidentification\nhttps://github.com/Ramdhadage/clinicaldeidpoc/blob/main/README.md\nhttps://github.com/Ramdhadage/clinicaldeidpoc\nhttps://ti5syn-ramdhadage.shinyapps.io/deidentification/\n\n\nCDRSCE_task_analysis\nhttps://github.com/Ramdhadage/taskAnalysis/blob/main/README.md\nhttps://github.com/Ramdhadage/taskAnalysis\nhttps://ti5syn-ramdhadage.shinyapps.io/CDRSCE_task_analysis/"
+  }
+]
