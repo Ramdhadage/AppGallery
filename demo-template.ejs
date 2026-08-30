@@ -1,0 +1,58 @@
+```{=html}
+<% for (const item of items) { %>
+  <h2 class="gallery-category"><%= item.category %></h2>
+
+  <div class="cards-container">
+    <% for (const app of item.apps) { %>
+      <div class="card" <%= metadataAttrs(app) %>>
+        <div class="app-details">
+          <a
+            class="listing-title"
+            href="<%= app.app_url %>"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            <%= app.title %>
+          </a>
+
+          <a
+            class="readme-file card-text"
+            href="<%= app.readme_url %>"
+            target="_blank"
+            rel="noopener noreferrer"
+            title="Open README"
+            aria-label="Open the README for <%= app.title %>"
+          >
+            <i class="bi-file-earmark-text" aria-hidden="true"></i>
+          </a>
+
+          <a
+            class="source-code card-text"
+            href="<%= app.repository_url %>"
+            target="_blank"
+            rel="noopener noreferrer"
+            title="Open GitHub repository"
+            aria-label="Open the GitHub repository for <%= app.title %>"
+          >
+            <i class="bi-code-slash" aria-hidden="true"></i>
+          </a>
+        </div>
+
+        <a
+          class="app-preview"
+          href="<%= app.app_url %>"
+          target="_blank"
+          rel="noopener noreferrer"
+          aria-label="Launch <%= app.title %>"
+        >
+          <img
+            src="<%= app.image %>"
+            alt="Preview of the <%= app.title %> application"
+          >
+          <span class="launch-label">Launch application</span>
+        </a>
+      </div>
+    <% } %>
+  </div>
+<% } %>
+```

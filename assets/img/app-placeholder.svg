@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 540" role="img" aria-labelledby="title description">
+  <title id="title">Application preview placeholder</title>
+  <desc id="description">A stylized dashboard window with cards and a chart.</desc>
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#eef3ff"/>
+      <stop offset="1" stop-color="#d8e5ff"/>
+    </linearGradient>
+    <linearGradient id="chart" x1="0" y1="1" x2="1" y2="0">
+      <stop offset="0" stop-color="#0b41cd"/>
+      <stop offset="1" stop-color="#426fe1"/>
+    </linearGradient>
+  </defs>
+  <rect width="960" height="540" fill="url(#background)"/>
+  <rect x="90" y="65" width="780" height="410" rx="20" fill="#fff" stroke="#b9c8e8" stroke-width="4"/>
+  <path d="M110 65h740a20 20 0 0 1 20 20v48H90V85a20 20 0 0 1 20-20Z" fill="#2c3d4f"/>
+  <circle cx="125" cy="99" r="10" fill="#ff7b72"/>
+  <circle cx="157" cy="99" r="10" fill="#f2cc60"/>
+  <circle cx="189" cy="99" r="10" fill="#56d364"/>
+  <rect x="125" y="170" width="175" height="265" rx="12" fill="#f5f7fa"/>
+  <rect x="330" y="170" width="230" height="105" rx="12" fill="#eef3ff"/>
+  <rect x="585" y="170" width="240" height="105" rx="12" fill="#eef3ff"/>
+  <rect x="330" y="300" width="495" height="135" rx="12" fill="#f8faff"/>
+  <path d="M365 402 430 350l64 30 72-58 70 38 72-73 82 43" fill="none" stroke="url(#chart)" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"/>
+  <rect x="155" y="205" width="115" height="12" rx="6" fill="#aebbd1"/>
+  <rect x="155" y="240" width="90" height="12" rx="6" fill="#c7d0df"/>
+  <rect x="155" y="275" width="105" height="12" rx="6" fill="#c7d0df"/>
+  <rect x="155" y="335" width="115" height="42" rx="21" fill="#0b41cd"/>
+  <text x="480" y="505" text-anchor="middle" font-family="system-ui, sans-serif" font-size="23" font-weight="600" fill="#2c3d4f">Shiny application preview</text>
+</svg>

@@ -1,0 +1,27 @@
+- category: Deployed Shiny Applications
+  apps:
+    - title: Biodiversity Dashboard
+      readme_url: https://github.com/Biodiversity-Dashboard/BiodiversityDashboard/blob/main/README.md
+      repository_url: https://github.com/Biodiversity-Dashboard/BiodiversityDashboard
+      app_url: https://ti5syn-ramdhadage.shinyapps.io/BiodiversityDashboard/
+      image: assets/img/app-placeholder.svg
+    - title: Editable Submission Sync
+      readme_url: https://github.com/Ramdhadage/editable.submissionsync/blob/main/README.md
+      repository_url: https://github.com/Ramdhadage/editable.submissionsync/tree/main
+      app_url: https://ti5syn-ramdhadage.shinyapps.io/editable/
+      image: assets/img/app-placeholder.svg
+    - title: Clinical Data Visualization Toolkit
+      readme_url: https://github.com/Ramdhadage/clinviz/blob/main/README.md
+      repository_url: https://github.com/Ramdhadage/clinviz
+      app_url: https://ti5syn-ramdhadage.shinyapps.io/ClinicalDataVisualizationToolkit/
+      image: assets/img/app-placeholder.svg
+    - title: Deidentification
+      readme_url: https://github.com/Ramdhadage/clinicaldeidpoc/blob/main/README.md
+      repository_url: https://github.com/Ramdhadage/clinicaldeidpoc
+      app_url: https://ti5syn-ramdhadage.shinyapps.io/deidentification/
+      image: assets/img/app-placeholder.svg
+    - title: CDRSCE Task Analysis
+      readme_url: https://github.com/Ramdhadage/taskAnalysis/blob/main/README.md
+      repository_url: https://github.com/Ramdhadage/taskAnalysis
+      app_url: https://ti5syn-ramdhadage.shinyapps.io/CDRSCE_task_analysis/
+      image: assets/img/app-placeholder.svg

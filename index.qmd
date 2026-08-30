@@ -1,0 +1,14 @@
+---
+title: "Shiny Application Gallery"
+pagetitle: "App Gallery"
+format: html
+listing:
+  - id: app-demo
+    template: demo-template.ejs
+    contents: demo-app.yml
+---
+
+Explore the deployed applications below. Select a card to launch an app, or use the icons to open its documentation and GitHub repository.
+
+::: {#app-demo .column-page}
+:::

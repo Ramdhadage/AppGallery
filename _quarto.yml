@@ -1,0 +1,24 @@
+project:
+  type: website
+  output-dir: _site
+
+website:
+  title: "App Gallery"
+  page-navigation: true
+  navbar:
+    background: dark
+    left:
+      - href: index.qmd
+        text: "Applications"
+  page-footer:
+    center: "Open-source Shiny application gallery"
+
+format:
+  html:
+    theme: flatly
+    css: styles.css
+    toc: false
+    page-layout: full
+    smooth-scroll: true
+
+editor: visual
