@@ -1,7 +1,7 @@
 - category: Deployed Shiny Applications
   apps:
     - title: ADaMViz SubmissionSync
-      readme_url: https://github.com/Ramdhadage/ADaMViz.SubmissionSync/blob/main/README.md
+      readme_url: https://ramdhadage.github.io/ADaMViz.SubmissionSync/
       repository_url: https://github.com/Ramdhadage/ADaMViz.SubmissionSync
       app_url: https://ramnath-dhadage.shinyapps.io/ADaMViz-SubmissionSync/
       image: assets/img/app-placeholder.svg
