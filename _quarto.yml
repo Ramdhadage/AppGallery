@@ -10,6 +10,10 @@ website:
     left:
       - href: index.qmd
         text: "Applications"
+    right:
+      - icon: github
+        href: https://github.com/Ramdhadage/AppGallery
+        aria-label: "App Gallery GitHub repository"
   page-footer:
     center: "Open-source Shiny application gallery"
 
