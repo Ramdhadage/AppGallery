@@ -1,5 +1,10 @@
 - category: Deployed Shiny Applications
   apps:
+    - title: ADaMViz SubmissionSync
+      readme_url: https://github.com/Ramdhadage/ADaMViz.SubmissionSync/blob/main/README.md
+      repository_url: https://github.com/Ramdhadage/ADaMViz.SubmissionSync
+      app_url: https://ramnath-dhadage.shinyapps.io/ADaMViz-SubmissionSync/
+      image: assets/img/app-placeholder.svg
     - title: Biodiversity Dashboard
       readme_url: https://github.com/Biodiversity-Dashboard/BiodiversityDashboard/blob/main/README.md
       repository_url: https://github.com/Biodiversity-Dashboard/BiodiversityDashboard
